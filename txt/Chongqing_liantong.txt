@@ -1,83 +1,23 @@
 #EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://27.10.212.60:8008/rtp/225.0.4.192:7980
+http://123.145.31.235:8001/rtp/225.0.4.192:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://27.10.212.60:8008/rtp/225.0.4.188:7980
+http://123.145.31.235:8001/rtp/225.0.4.188:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://27.10.212.60:8008/rtp/225.0.4.190:7980
+http://123.145.31.235:8001/rtp/225.0.4.190:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://27.10.212.60:8008/rtp/225.0.4.191:7980
+http://123.145.31.235:8001/rtp/225.0.4.191:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://27.10.212.60:8008/rtp/225.0.4.193:7980
+http://123.145.31.235:8001/rtp/225.0.4.193:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://27.10.212.60:8008/rtp/225.0.4.194:7980
+http://123.145.31.235:8001/rtp/225.0.4.194:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://27.10.212.60:8008/rtp/225.0.4.196:7980
+http://123.145.31.235:8001/rtp/225.0.4.196:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://27.10.212.60:8008/rtp/225.0.4.189:7980
+http://123.145.31.235:8001/rtp/225.0.4.189:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://27.10.212.60:8008/rtp/225.0.4.215:7980
+http://123.145.31.235:8001/rtp/225.0.4.215:7980
 #EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
-http://27.10.212.60:8008/rtp/225.0.4.195:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://27.10.212.60:8009/rtp/225.0.4.192:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://27.10.212.60:8009/rtp/225.0.4.188:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://27.10.212.60:8009/rtp/225.0.4.190:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://27.10.212.60:8009/rtp/225.0.4.191:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://27.10.212.60:8009/rtp/225.0.4.193:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://27.10.212.60:8009/rtp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://27.10.212.60:8009/rtp/225.0.4.196:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://27.10.212.60:8009/rtp/225.0.4.189:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://27.10.212.60:8009/rtp/225.0.4.215:7980
-#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
-http://27.10.212.60:8009/rtp/225.0.4.195:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://123.146.54.2:8888/rtp/225.0.4.192:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://123.146.54.2:8888/rtp/225.0.4.188:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://123.146.54.2:8888/rtp/225.0.4.190:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://123.146.54.2:8888/rtp/225.0.4.191:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://123.146.54.2:8888/rtp/225.0.4.193:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://123.146.54.2:8888/rtp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://123.146.54.2:8888/rtp/225.0.4.196:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://123.146.54.2:8888/rtp/225.0.4.189:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://123.146.54.2:8888/rtp/225.0.4.215:7980
-#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
-http://123.146.54.2:8888/rtp/225.0.4.195:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://123.145.30.43:8004/rtp/225.0.4.192:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://123.145.30.43:8004/rtp/225.0.4.188:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://123.145.30.43:8004/rtp/225.0.4.190:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://123.145.30.43:8004/rtp/225.0.4.191:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://123.145.30.43:8004/rtp/225.0.4.193:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://123.145.30.43:8004/rtp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://123.145.30.43:8004/rtp/225.0.4.196:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://123.145.30.43:8004/rtp/225.0.4.189:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://123.145.30.43:8004/rtp/225.0.4.215:7980
-#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
-http://123.145.30.43:8004/rtp/225.0.4.195:7980
+http://123.145.31.235:8001/rtp/225.0.4.195:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
 http://123.145.31.235:8002/rtp/225.0.4.192:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
@@ -99,185 +39,25 @@ http://123.145.31.235:8002/rtp/225.0.4.215:7980
 #EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
 http://123.145.31.235:8002/rtp/225.0.4.195:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://27.10.73.106:8009/rtp/225.0.4.192:7980
+http://27.11.195.234:8010/rtp/225.0.4.192:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://27.10.73.106:8009/rtp/225.0.4.188:7980
+http://27.11.195.234:8010/rtp/225.0.4.188:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://27.10.73.106:8009/rtp/225.0.4.190:7980
+http://27.11.195.234:8010/rtp/225.0.4.190:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://27.10.73.106:8009/rtp/225.0.4.191:7980
+http://27.11.195.234:8010/rtp/225.0.4.191:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://27.10.73.106:8009/rtp/225.0.4.193:7980
+http://27.11.195.234:8010/rtp/225.0.4.193:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://27.10.73.106:8009/rtp/225.0.4.194:7980
+http://27.11.195.234:8010/rtp/225.0.4.194:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://27.10.73.106:8009/rtp/225.0.4.196:7980
+http://27.11.195.234:8010/rtp/225.0.4.196:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://27.10.73.106:8009/rtp/225.0.4.189:7980
+http://27.11.195.234:8010/rtp/225.0.4.189:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://27.10.73.106:8009/rtp/225.0.4.215:7980
+http://27.11.195.234:8010/rtp/225.0.4.215:7980
 #EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
-http://27.10.73.106:8009/rtp/225.0.4.195:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://123.145.31.194:8003/rtp/225.0.4.192:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://123.145.31.194:8003/rtp/225.0.4.188:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://123.145.31.194:8003/rtp/225.0.4.190:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://123.145.31.194:8003/rtp/225.0.4.191:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://123.145.31.194:8003/rtp/225.0.4.193:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://123.145.31.194:8003/rtp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://123.145.31.194:8003/rtp/225.0.4.196:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://123.145.31.194:8003/rtp/225.0.4.189:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://123.145.31.194:8003/rtp/225.0.4.215:7980
-#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
-http://123.145.31.194:8003/rtp/225.0.4.195:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://123.145.31.235:8003/rtp/225.0.4.192:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://123.145.31.235:8003/rtp/225.0.4.188:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://123.145.31.235:8003/rtp/225.0.4.190:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://123.145.31.235:8003/rtp/225.0.4.191:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://123.145.31.235:8003/rtp/225.0.4.193:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://123.145.31.235:8003/rtp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://123.145.31.235:8003/rtp/225.0.4.196:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://123.145.31.235:8003/rtp/225.0.4.189:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://123.145.31.235:8003/rtp/225.0.4.215:7980
-#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
-http://123.145.31.235:8003/rtp/225.0.4.195:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://123.145.30.43:8001/rtp/225.0.4.192:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://123.145.30.43:8001/rtp/225.0.4.188:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://123.145.30.43:8001/rtp/225.0.4.190:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://123.145.30.43:8001/rtp/225.0.4.191:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://123.145.30.43:8001/rtp/225.0.4.193:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://123.145.30.43:8001/rtp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://123.145.30.43:8001/rtp/225.0.4.196:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://123.145.30.43:8001/rtp/225.0.4.189:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://123.145.30.43:8001/rtp/225.0.4.215:7980
-#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
-http://123.145.30.43:8001/rtp/225.0.4.195:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://123.145.31.194:8001/rtp/225.0.4.192:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://123.145.31.194:8001/rtp/225.0.4.188:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://123.145.31.194:8001/rtp/225.0.4.190:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://123.145.31.194:8001/rtp/225.0.4.191:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://123.145.31.194:8001/rtp/225.0.4.193:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://123.145.31.194:8001/rtp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://123.145.31.194:8001/rtp/225.0.4.196:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://123.145.31.194:8001/rtp/225.0.4.189:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://123.145.31.194:8001/rtp/225.0.4.215:7980
-#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
-http://123.145.31.194:8001/rtp/225.0.4.195:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://123.145.31.235:8005/rtp/225.0.4.192:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://123.145.31.235:8005/rtp/225.0.4.188:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://123.145.31.235:8005/rtp/225.0.4.190:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://123.145.31.235:8005/rtp/225.0.4.191:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://123.145.31.235:8005/rtp/225.0.4.193:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://123.145.31.235:8005/rtp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://123.145.31.235:8005/rtp/225.0.4.196:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://123.145.31.235:8005/rtp/225.0.4.189:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://123.145.31.235:8005/rtp/225.0.4.215:7980
-#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
-http://123.145.31.235:8005/rtp/225.0.4.195:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://27.11.55.113:8009/rtp/225.0.4.192:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://27.11.55.113:8009/rtp/225.0.4.188:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://27.11.55.113:8009/rtp/225.0.4.190:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://27.11.55.113:8009/rtp/225.0.4.191:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://27.11.55.113:8009/rtp/225.0.4.193:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://27.11.55.113:8009/rtp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://27.11.55.113:8009/rtp/225.0.4.196:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://27.11.55.113:8009/rtp/225.0.4.189:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://27.11.55.113:8009/rtp/225.0.4.215:7980
-#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
-http://27.11.55.113:8009/rtp/225.0.4.195:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://123.145.31.235:8001/rtp/225.0.4.192:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://123.145.31.235:8001/rtp/225.0.4.188:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://123.145.31.235:8001/rtp/225.0.4.190:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://123.145.31.235:8001/rtp/225.0.4.191:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://123.145.31.235:8001/rtp/225.0.4.193:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://123.145.31.235:8001/rtp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://123.145.31.235:8001/rtp/225.0.4.196:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://123.145.31.235:8001/rtp/225.0.4.189:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://123.145.31.235:8001/rtp/225.0.4.215:7980
-#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
-http://123.145.31.235:8001/rtp/225.0.4.195:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://123.145.30.43:8005/rtp/225.0.4.192:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://123.145.30.43:8005/rtp/225.0.4.188:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://123.145.30.43:8005/rtp/225.0.4.190:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://123.145.30.43:8005/rtp/225.0.4.191:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://123.145.30.43:8005/rtp/225.0.4.193:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://123.145.30.43:8005/rtp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://123.145.30.43:8005/rtp/225.0.4.196:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://123.145.30.43:8005/rtp/225.0.4.189:7980
-#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://123.145.30.43:8005/rtp/225.0.4.215:7980
-#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
-http://123.145.30.43:8005/rtp/225.0.4.195:7980
+http://27.11.195.234:8010/rtp/225.0.4.195:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
 http://123.145.30.43:8003/rtp/225.0.4.192:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
@@ -299,6 +79,86 @@ http://123.145.30.43:8003/rtp/225.0.4.215:7980
 #EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
 http://123.145.30.43:8003/rtp/225.0.4.195:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://123.145.24.80:8005/rtp/225.0.4.192:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://123.145.24.80:8005/rtp/225.0.4.188:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://123.145.24.80:8005/rtp/225.0.4.190:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://123.145.24.80:8005/rtp/225.0.4.191:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://123.145.24.80:8005/rtp/225.0.4.193:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://123.145.24.80:8005/rtp/225.0.4.194:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://123.145.24.80:8005/rtp/225.0.4.196:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://123.145.24.80:8005/rtp/225.0.4.189:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://123.145.24.80:8005/rtp/225.0.4.215:7980
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
+http://123.145.24.80:8005/rtp/225.0.4.195:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://123.145.30.43:8004/rtp/225.0.4.192:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://123.145.30.43:8004/rtp/225.0.4.188:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://123.145.30.43:8004/rtp/225.0.4.190:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://123.145.30.43:8004/rtp/225.0.4.191:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://123.145.30.43:8004/rtp/225.0.4.193:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://123.145.30.43:8004/rtp/225.0.4.194:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://123.145.30.43:8004/rtp/225.0.4.196:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://123.145.30.43:8004/rtp/225.0.4.189:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://123.145.30.43:8004/rtp/225.0.4.215:7980
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
+http://123.145.30.43:8004/rtp/225.0.4.195:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://123.145.31.235:8003/rtp/225.0.4.192:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://123.145.31.235:8003/rtp/225.0.4.188:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://123.145.31.235:8003/rtp/225.0.4.190:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://123.145.31.235:8003/rtp/225.0.4.191:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://123.145.31.235:8003/rtp/225.0.4.193:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://123.145.31.235:8003/rtp/225.0.4.194:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://123.145.31.235:8003/rtp/225.0.4.196:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://123.145.31.235:8003/rtp/225.0.4.189:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://123.145.31.235:8003/rtp/225.0.4.215:7980
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
+http://123.145.31.235:8003/rtp/225.0.4.195:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://27.11.62.41:8009/rtp/225.0.4.192:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://27.11.62.41:8009/rtp/225.0.4.188:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://27.11.62.41:8009/rtp/225.0.4.190:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://27.11.62.41:8009/rtp/225.0.4.191:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://27.11.62.41:8009/rtp/225.0.4.193:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://27.11.62.41:8009/rtp/225.0.4.194:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://27.11.62.41:8009/rtp/225.0.4.196:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://27.11.62.41:8009/rtp/225.0.4.189:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://27.11.62.41:8009/rtp/225.0.4.215:7980
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
+http://27.11.62.41:8009/rtp/225.0.4.195:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
 http://123.145.30.43:8002/rtp/225.0.4.192:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
 http://123.145.30.43:8002/rtp/225.0.4.188:7980
@@ -319,25 +179,165 @@ http://123.145.30.43:8002/rtp/225.0.4.215:7980
 #EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
 http://123.145.30.43:8002/rtp/225.0.4.195:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://27.10.73.106:8008/rtp/225.0.4.192:7980
+http://123.145.24.80:8003/rtp/225.0.4.192:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://27.10.73.106:8008/rtp/225.0.4.188:7980
+http://123.145.24.80:8003/rtp/225.0.4.188:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://27.10.73.106:8008/rtp/225.0.4.190:7980
+http://123.145.24.80:8003/rtp/225.0.4.190:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://27.10.73.106:8008/rtp/225.0.4.191:7980
+http://123.145.24.80:8003/rtp/225.0.4.191:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://27.10.73.106:8008/rtp/225.0.4.193:7980
+http://123.145.24.80:8003/rtp/225.0.4.193:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://27.10.73.106:8008/rtp/225.0.4.194:7980
+http://123.145.24.80:8003/rtp/225.0.4.194:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://27.10.73.106:8008/rtp/225.0.4.196:7980
+http://123.145.24.80:8003/rtp/225.0.4.196:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://27.10.73.106:8008/rtp/225.0.4.189:7980
+http://123.145.24.80:8003/rtp/225.0.4.189:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://27.10.73.106:8008/rtp/225.0.4.215:7980
+http://123.145.24.80:8003/rtp/225.0.4.215:7980
 #EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
-http://27.10.73.106:8008/rtp/225.0.4.195:7980
+http://123.145.24.80:8003/rtp/225.0.4.195:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://123.145.31.235:8005/rtp/225.0.4.192:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://123.145.31.235:8005/rtp/225.0.4.188:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://123.145.31.235:8005/rtp/225.0.4.190:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://123.145.31.235:8005/rtp/225.0.4.191:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://123.145.31.235:8005/rtp/225.0.4.193:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://123.145.31.235:8005/rtp/225.0.4.194:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://123.145.31.235:8005/rtp/225.0.4.196:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://123.145.31.235:8005/rtp/225.0.4.189:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://123.145.31.235:8005/rtp/225.0.4.215:7980
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
+http://123.145.31.235:8005/rtp/225.0.4.195:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://27.11.195.234:8009/rtp/225.0.4.192:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://27.11.195.234:8009/rtp/225.0.4.188:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://27.11.195.234:8009/rtp/225.0.4.190:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://27.11.195.234:8009/rtp/225.0.4.191:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://27.11.195.234:8009/rtp/225.0.4.193:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://27.11.195.234:8009/rtp/225.0.4.194:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://27.11.195.234:8009/rtp/225.0.4.196:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://27.11.195.234:8009/rtp/225.0.4.189:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://27.11.195.234:8009/rtp/225.0.4.215:7980
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
+http://27.11.195.234:8009/rtp/225.0.4.195:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://123.145.30.43:8005/rtp/225.0.4.192:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://123.145.30.43:8005/rtp/225.0.4.188:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://123.145.30.43:8005/rtp/225.0.4.190:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://123.145.30.43:8005/rtp/225.0.4.191:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://123.145.30.43:8005/rtp/225.0.4.193:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://123.145.30.43:8005/rtp/225.0.4.194:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://123.145.30.43:8005/rtp/225.0.4.196:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://123.145.30.43:8005/rtp/225.0.4.189:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://123.145.30.43:8005/rtp/225.0.4.215:7980
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
+http://123.145.30.43:8005/rtp/225.0.4.195:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://123.145.24.80:8002/rtp/225.0.4.192:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://123.145.24.80:8002/rtp/225.0.4.188:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://123.145.24.80:8002/rtp/225.0.4.190:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://123.145.24.80:8002/rtp/225.0.4.191:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://123.145.24.80:8002/rtp/225.0.4.193:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://123.145.24.80:8002/rtp/225.0.4.194:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://123.145.24.80:8002/rtp/225.0.4.196:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://123.145.24.80:8002/rtp/225.0.4.189:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://123.145.24.80:8002/rtp/225.0.4.215:7980
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
+http://123.145.24.80:8002/rtp/225.0.4.195:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://123.145.30.43:8001/rtp/225.0.4.192:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://123.145.30.43:8001/rtp/225.0.4.188:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://123.145.30.43:8001/rtp/225.0.4.190:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://123.145.30.43:8001/rtp/225.0.4.191:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://123.145.30.43:8001/rtp/225.0.4.193:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://123.145.30.43:8001/rtp/225.0.4.194:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://123.145.30.43:8001/rtp/225.0.4.196:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://123.145.30.43:8001/rtp/225.0.4.189:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://123.145.30.43:8001/rtp/225.0.4.215:7980
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
+http://123.145.30.43:8001/rtp/225.0.4.195:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://123.146.54.2:8888/rtp/225.0.4.192:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://123.146.54.2:8888/rtp/225.0.4.188:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://123.146.54.2:8888/rtp/225.0.4.190:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://123.146.54.2:8888/rtp/225.0.4.191:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://123.146.54.2:8888/rtp/225.0.4.193:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://123.146.54.2:8888/rtp/225.0.4.194:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://123.146.54.2:8888/rtp/225.0.4.196:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://123.146.54.2:8888/rtp/225.0.4.189:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://123.146.54.2:8888/rtp/225.0.4.215:7980
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
+http://123.146.54.2:8888/rtp/225.0.4.195:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
+http://123.145.24.80:8004/rtp/225.0.4.192:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
+http://123.145.24.80:8004/rtp/225.0.4.188:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
+http://123.145.24.80:8004/rtp/225.0.4.190:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
+http://123.145.24.80:8004/rtp/225.0.4.191:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
+http://123.145.24.80:8004/rtp/225.0.4.193:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
+http://123.145.24.80:8004/rtp/225.0.4.194:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
+http://123.145.24.80:8004/rtp/225.0.4.196:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
+http://123.145.24.80:8004/rtp/225.0.4.189:7980
+#EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
+http://123.145.24.80:8004/rtp/225.0.4.215:7980
+#EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
+http://123.145.24.80:8004/rtp/225.0.4.195:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
 http://123.145.31.235:8004/rtp/225.0.4.192:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
@@ -359,65 +359,55 @@ http://123.145.31.235:8004/rtp/225.0.4.215:7980
 #EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
 http://123.145.31.235:8004/rtp/225.0.4.195:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://123.145.31.194:8005/rtp/225.0.4.192:7980
+http://27.9.90.188:8009/rtp/225.0.4.192:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://123.145.31.194:8005/rtp/225.0.4.188:7980
+http://27.9.90.188:8009/rtp/225.0.4.188:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://123.145.31.194:8005/rtp/225.0.4.190:7980
+http://27.9.90.188:8009/rtp/225.0.4.190:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://123.145.31.194:8005/rtp/225.0.4.191:7980
+http://27.9.90.188:8009/rtp/225.0.4.191:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://123.145.31.194:8005/rtp/225.0.4.193:7980
+http://27.9.90.188:8009/rtp/225.0.4.193:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://123.145.31.194:8005/rtp/225.0.4.194:7980
+http://27.9.90.188:8009/rtp/225.0.4.194:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://123.145.31.194:8005/rtp/225.0.4.196:7980
+http://27.9.90.188:8009/rtp/225.0.4.196:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://123.145.31.194:8005/rtp/225.0.4.189:7980
+http://27.9.90.188:8009/rtp/225.0.4.189:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://123.145.31.194:8005/rtp/225.0.4.215:7980
+http://27.9.90.188:8009/rtp/225.0.4.215:7980
 #EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
-http://123.145.31.194:8005/rtp/225.0.4.195:7980
+http://27.9.90.188:8009/rtp/225.0.4.195:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://123.145.31.194:8002/rtp/225.0.4.192:7980
+http://27.11.62.41:8010/rtp/225.0.4.192:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://123.145.31.194:8002/rtp/225.0.4.188:7980
+http://27.11.62.41:8010/rtp/225.0.4.188:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://123.145.31.194:8002/rtp/225.0.4.190:7980
+http://27.11.62.41:8010/rtp/225.0.4.190:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://123.145.31.194:8002/rtp/225.0.4.191:7980
+http://27.11.62.41:8010/rtp/225.0.4.191:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://123.145.31.194:8002/rtp/225.0.4.193:7980
+http://27.11.62.41:8010/rtp/225.0.4.193:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://123.145.31.194:8002/rtp/225.0.4.194:7980
+http://27.11.62.41:8010/rtp/225.0.4.194:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://123.145.31.194:8002/rtp/225.0.4.196:7980
+http://27.11.62.41:8010/rtp/225.0.4.196:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://123.145.31.194:8002/rtp/225.0.4.189:7980
+http://27.11.62.41:8010/rtp/225.0.4.189:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://123.145.31.194:8002/rtp/225.0.4.215:7980
+http://27.11.62.41:8010/rtp/225.0.4.215:7980
 #EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
-http://123.145.31.194:8002/rtp/225.0.4.195:7980
+http://27.11.62.41:8010/rtp/225.0.4.195:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
-http://123.145.31.194:8004/rtp/225.0.4.192:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
-http://123.145.31.194:8004/rtp/225.0.4.188:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
-http://123.145.31.194:8004/rtp/225.0.4.190:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆少儿" tvg-logo="https://www.yangfeiyue.cn/tv/重庆少儿.png" group-title="卫视高清",重庆少儿
-http://123.145.31.194:8004/rtp/225.0.4.191:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆科教" tvg-logo="https://www.yangfeiyue.cn/tv/重庆科教.png" group-title="卫视高清",重庆科教
-http://123.145.31.194:8004/rtp/225.0.4.193:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆娱乐" tvg-logo="https://www.yangfeiyue.cn/tv/重庆娱乐.png" group-title="卫视高清",重庆娱乐
-http://123.145.31.194:8004/rtp/225.0.4.194:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆时尚生活" tvg-logo="https://www.yangfeiyue.cn/tv/重庆时尚生活.png" group-title="卫视高清",重庆时尚生活
-http://123.145.31.194:8004/rtp/225.0.4.196:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆农村" tvg-logo="https://www.yangfeiyue.cn/tv/重庆农村.png" group-title="卫视高清",重庆农村
-http://123.145.31.194:8004/rtp/225.0.4.189:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆移动" tvg-logo="https://www.yangfeiyue.cn/tv/重庆移动.png" group-title="卫视高清",重庆移动
-http://123.145.31.194:8004/rtp/225.0.4.215:7980
 #EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
-http://123.145.31.194:8004/rtp/225.0.4.195:7980
 #EXTINF:-1 tvg-id="1" tvg-name="重庆影视" tvg-logo="https://www.yangfeiyue.cn/tv/重庆影视.png" group-title="卫视高清",重庆影视
 #EXTINF:-1 tvg-id="1" tvg-name="重庆新闻" tvg-logo="https://www.yangfeiyue.cn/tv/重庆新闻.png" group-title="卫视高清",重庆新闻
 #EXTINF:-1 tvg-id="1" tvg-name="重庆社会与法" tvg-logo="https://www.yangfeiyue.cn/tv/重庆社会与法.png" group-title="卫视高清",重庆社会与法
