@@ -18,3 +18,19 @@ http://ipipip/rtp/225.0.4.189:7980
 http://ipipip/rtp/225.0.4.215:7980
 #EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://www.yangfeiyue.cn/tv/汽摩.png" group-title="卫视高清",汽摩
 http://ipipip/rtp/225.0.4.195:7980
+#EXTINF:-1 tvg-id="1" tvg-name="家庭影院" tvg-logo="https://www.yangfeiyue.cn/tv/家庭影院.png" group-title="华数高清",家庭影院
+http://ipipip/rtp/225.0.4.171:7980
+#EXTINF:-1 tvg-id="1" tvg-name="武侠剧场" tvg-logo="https://www.yangfeiyue.cn/tv/武侠剧场.png" group-title="华数高清",武侠剧场
+http://ipipip/rtp/225.0.4.168:7980
+#EXTINF:-1 tvg-id="1" tvg-name="经典电影" tvg-logo="https://www.yangfeiyue.cn/tv/经典电影.png" group-title="华数高清",经典电影
+http://ipipip/rtp/225.0.4.48:7980
+#EXTINF:-1 tvg-id="1" tvg-name="动作影院" tvg-logo="https://www.yangfeiyue.cn/tv/动作影院.png" group-title="华数高清",动作影院
+http://ipipip/rtp/225.0.4.170:7980
+#EXTINF:-1 tvg-id="1" tvg-name="星影" tvg-logo="https://www.yangfeiyue.cn/tv/星影.png" group-title="华数高清",星影
+http://ipipip/rtp/225.0.4.172:7980
+#EXTINF:-1 tvg-id="1" tvg-name="光影" tvg-logo="https://www.yangfeiyue.cn/tv/光影.png" group-title="华数高清",光影
+http://ipipip/rtp/225.0.4.162:7980
+#EXTINF:-1 tvg-id="1" tvg-name="喜剧剧场" tvg-logo="https://www.yangfeiyue.cn/tv/喜剧剧场.png" group-title="华数高清",喜剧剧场
+http://ipipip/rtp/225.0.4.169:7980
+#EXTINF:-1 tvg-id="1" tvg-name="热播剧场" tvg-logo="https://www.yangfeiyue.cn/tv/热播剧场.png" group-title="华数高清",热播剧场
+http://ipipip/rtp/225.0.4.47:7980
