@@ -30,7 +30,7 @@ http://ipipip/rtp/225.0.4.170:7980
 http://ipipip/rtp/225.0.4.172:7980
 #EXTINF:-1 tvg-id="1" tvg-name="光影" tvg-logo="https://www.yangfeiyue.cn/tv/光影.png" group-title="华数高清",光影
 http://ipipip/rtp/225.0.4.162:7980
-#EXTINF:-1 tvg-id="1" tvg-name="喜剧剧场" tvg-logo="https://www.yangfeiyue.cn/tv/喜剧剧场.png" group-title="华数高清",喜剧剧场
+#EXTINF:-1 tvg-id="1" tvg-name="喜剧影院" tvg-logo="https://www.yangfeiyue.cn/tv/喜剧影院.png" group-title="华数高清",喜剧影院
 http://ipipip/rtp/225.0.4.169:7980
 #EXTINF:-1 tvg-id="1" tvg-name="热播剧场" tvg-logo="https://www.yangfeiyue.cn/tv/热播剧场.png" group-title="华数高清",热播剧场
 http://ipipip/rtp/225.0.4.47:7980
